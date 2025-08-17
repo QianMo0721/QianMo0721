@@ -8,7 +8,7 @@ Q:3142150691
 
 ![](https://img.shields.io/badge/Python-qwq-blue)
 
-![https://img.shields.io/badge/C++-Nothing_beats_a_Jet2_Hoilday!-blue]
+!()[https://img.shields.io/badge/C++-Nothing_beats_a_Jet2_Hoilday!-blue]
 
 ![](https://img.shields.io/badge/Jvav-noob-blue)
 
