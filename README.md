@@ -1,16 +1,15 @@
-## Hi there 👋
+# ❌ Not there QianMo0721
 
-<!--
-**QianMoo0121/QianMoo0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我要睡大觉qwq
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Jvav-noob-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/NodeJS-wtf-blue)
+![](https://img.shields.io/badge/HTML_CSS-I_know_I_was_wrong-blue)
+
+![](https://img.shields.io/badge/JvavScript-ciodkdkfknfw-blue)
+![](https://img.shields.io/badge/Vue-idk-blue)
+
+![](https://img.shields.io/badge/淘宝客服-骚-blue)
+
+![](https://img.shields.io/badge/番茄炒蛋-更骚-blue)
