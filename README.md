@@ -2,6 +2,8 @@
 
 我要睡大觉qwq
 
+[![1](https://github-readme-stats.vercel.app/api?username=QianMoo0121)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://img.shields.io/badge/Jvav-noob-blue)
 
 ![](https://img.shields.io/badge/NodeJS-wtf-blue)
