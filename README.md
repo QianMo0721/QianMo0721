@@ -1,6 +1,8 @@
 # ❌ Not there QianMo0721
 
-我要睡大觉qwq
+I want to sleep uwu
+
+My code quality is directly related to my dreams, I write whatever I dream about
 
 Q:3142150691
 
