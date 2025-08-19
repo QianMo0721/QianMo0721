@@ -10,11 +10,11 @@ Q:3142150691
 
 ![](https://img.shields.io/badge/Python-qwq-blue)
 
-![](https://img.shields.io/badge/C++-Nothing_beats_a_Jet2_Hoilday!-blue)
+![](https://img.shields.io/badge/C艹-Nothing_beats_a_Jet2_Hoilday!-blue)
 
 ![](https://img.shields.io/badge/Jvav-I_hate_SpongePowered_Mixin!-blue)
 
-![](https://img.shields.io/badge/NodeJS-wtf-blue)
+![](https://img.shields.io/badge/NopeJS-wtf-blue)
 
 ![](https://img.shields.io/badge/HTML_CSS-I_know_I_was_wrong-blue)
 
