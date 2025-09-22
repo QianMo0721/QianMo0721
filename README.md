@@ -8,6 +8,8 @@ Q:3142150691
 
 [![1](https://github-readme-stats.vercel.app/api?username=QianMo0721)](https://github.com/anuraghazra/github-readme-stats)
 
+[](https://count.getloli.com/@QianMo0721?theme=capoo-2&align=center&darkmode=auto)
+
 ![](https://img.shields.io/badge/Python-qwq-blue)
 
 ![](https://img.shields.io/badge/C艹-Nothing_beats_a_Jet2_Hoilday!-blue)
