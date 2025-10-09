@@ -4,6 +4,8 @@ I want to sleep uwu
 
 # 我不会moooooooooooooooooooooooooooooo
 
+![](1000048961.jpg)
+
 My code quality is directly related to my dreams, I write whatever I dream about
 
 Q:3142150691
