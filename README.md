@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QianMo0721&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QianMo0721&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QianMo0721&show_icons=true&theme=ambient_gradient)
 
 </div>
 
@@ -42,10 +41,9 @@
 ## 🎨 Featured Projects
 
 ### 🔥 Popular Projects
+[![Luminara](https://github-readme-stats.vercel.app/api/pin/?username=CraftAmethyst&repo=Luminara)](https://github.com/CraftAmethyst/Luminara)
 
--  [Luminara](https://github.com/CraftAmethyst/Luminara) - Spigot + Forge 1.20.1 Hybrid Server Implementation
-
-- [Graphene](https://github.com/CraftAmethyst/Graphene) : Comprehensive Optimization Mod
+[![Graphene](https://github-readme-stats.vercel.app/api/pin/?username=CraftAmethyst&repo=Graphene)](https://github.com/CraftAmethyst/Graphene)
 
 ### 🚀 In Development
 - Next-generation Minecraft server management system
