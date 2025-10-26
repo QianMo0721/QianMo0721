@@ -1,33 +1,94 @@
-# ❌ Not there QianMo0721
+# 👋 Hi, I'm QianMo!
 
-I want to sleep uwu
+<div align="center">
 
-# 我不会moooooooooooooooooooooooooooooo
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QianMo0721&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QianMo0721&layout=compact&theme=radical)
 
-![](1000048961.jpg)
+</div>
 
-My code quality is directly related to my dreams, I write whatever I dream about
+## 🎮 About Me
 
-Q:3142150691
+> *"Poked a pigeon, but code never pigeons!"*
 
-[![1](https://github-readme-stats.vercel.app/api?username=QianMo0721)](https://github.com/anuraghazra/github-readme-stats)
+- 🎓 University Graduate | 👩‍💻 Female Developer
+- 🎯 Focused on **Java Minecraft** Plugin & Mod Development
+- ⚡ Passionate about technology, enjoying the creative process
+- 🕹️ Game Development Enthusiast
 
-![](https://count.getloli.com/@QianMo0721?theme=capoo-2&align=center&darkmode=auto)
+## 💻 Tech Stack
 
-![](https://img.shields.io/badge/Python-qwq-blue)
+<div align="center">
 
-![](https://img.shields.io/badge/C艹-Nothing_beats_a_Jet2_Hoilday!-blue)
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![](https://img.shields.io/badge/Jvav-I_hate_SpongePowered_Mixin!-blue)
+### Technologies & Frameworks
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Bukkit/Spigot](https://img.shields.io/badge/Bukkit/Spigot-Development-orange?style=for-the-badge)
+![Forge](https://img.shields.io/badge/Forge_Modding-Development-red?style=for-the-badge)
+![NeoForge](https://img.shields.io/badge/NeoForge-Development-blue?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-![](https://img.shields.io/badge/NopeJS-wtf-blue)
+</div>
 
-![](https://img.shields.io/badge/HTML_CSS-I_know_I_was_wrong-blue)
+## 🎨 Featured Projects
 
-![](https://img.shields.io/badge/JvavScript-ciodkdkfknfw-blue)
+### 🔥 Popular Projects
 
-![](https://img.shields.io/badge/Vue-idk-blue)
+-  [Luminara](https://github.com/CraftAmethyst/Luminara) - Spigot + Forge 1.20.1 Hybrid Server Implementation
 
-![](https://img.shields.io/badge/淘宝客服-骚-blue)
+- [Graphene](https://github.com/CraftAmethyst/Graphene) : Comprehensive Optimization Mod
 
-![](https://img.shields.io/badge/番茄炒蛋-更骚-blue)
+### 🚀 In Development
+- Next-generation Minecraft server management system
+- Cross-platform gaming tools
+- Automated build toolchain
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=QianMo0721&theme=radical)
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![QQ](https://img.shields.io/badge/QQ-3142150691-FF6B6B?style=for-the-badge&logo=tencentqq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=3142150691&site=qq&menu=yes)
+[![GitHub](https://img.shields.io/badge/GitHub-QianMo0721-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QianMo0721)
+[![GitHub Followers](https://img.shields.io/github/followers/QianMo0721?style=for-the-badge&logo=github)](https://github.com/QianMo0721)
+
+</div>
+
+## 🎯 Current Goals
+
+- 🔭 Deepening **Modern C++** development skills
+- 🌱 Exploring **Vite** and frontend engineering
+- 👯 Seeking **Minecraft development** collaborations
+- 🤔 Improving **system architecture design** capabilities
+
+## 💖 Support My Work
+
+If my projects help you, feel free to:
+- ⭐ Star my repositories
+- 🔔 Follow my GitHub
+- 💬 Provide suggestions and feedback
+
+---
+
+<div align="center">
+
+**✨ Code like poetry, creating infinite possibilities ✨**
+
+*Last updated: {{date}}*
+
+</div>
