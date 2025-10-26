@@ -2,6 +2,8 @@
 
 <div align="center">
 
+Distinct Name: QianMo0721/QianMo_ProMax/QianMoMAX
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QianMo0721&show_icons=true&theme=ambient_gradient)
 
 </div>
@@ -75,8 +77,6 @@ If my projects help you, feel free to:
 <div align="center">
 
 **✨ Code like poetry, creating infinite possibilities ✨**
-
-*Last updated: {{date}}*
 
 </div>
 
