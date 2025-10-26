@@ -45,11 +45,6 @@
 
 [![Graphene](https://github-readme-stats.vercel.app/api/pin/?username=CraftAmethyst&repo=Graphene)](https://github.com/CraftAmethyst/Graphene)
 
-### 🚀 In Development
-- Next-generation Minecraft server management system
-- Cross-platform gaming tools
-- Automated build toolchain
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -84,3 +79,7 @@ If my projects help you, feel free to:
 *Last updated: {{date}}*
 
 </div>
+
+---
+
+Write by DeepSeek
