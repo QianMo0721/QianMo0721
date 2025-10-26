@@ -70,13 +70,6 @@
 
 </div>
 
-## 🎯 Current Goals
-
-- 🔭 Deepening **Modern C++** development skills
-- 🌱 Exploring **Vite** and frontend engineering
-- 👯 Seeking **Minecraft development** collaborations
-- 🤔 Improving **system architecture design** capabilities
-
 ## 💖 Support My Work
 
 If my projects help you, feel free to:
