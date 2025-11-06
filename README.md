@@ -2,7 +2,9 @@
 
 <div align="center">
 
-Distinct Name: QianMo0721/QianMo_ProMax/QianMoMAX
+Distinct Name: 浅陌/QianMoQianMo0721/QianMo_ProMax/QianMoMAX
+
+My main projects are under my organization: [CraftAmethyst](https://github.com/CraftAmethyst)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QianMo0721&show_icons=true&theme=ambient_gradient)
 
