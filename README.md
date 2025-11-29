@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Distinct Name: 浅陌/QianMoQianMo0721/QianMo_ProMax/QianMoMAX
+Distinct Name: 浅陌/QianMo/QianMo0721/QianMo_ProMax/QianMoMAX
 
 My main projects are under my organization: [CraftAmethyst](https://github.com/CraftAmethyst)
 
