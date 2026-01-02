@@ -45,9 +45,9 @@ My main projects are under my organization: [CraftAmethyst](https://github.com/C
 ## 🎨 Featured Projects
 
 ### 🔥 Popular Projects
-[![Luminara](https://github-readme-stats-six-gamma-67.vercel.app/api/pin/?username=CraftAmethyst&repo=Luminara)](https://github.com/CraftAmethyst/Luminara)
+[![Luminara](https://github-readme-stats-six-gamma-67.vercel.app/api/pin?username=CraftAmethyst&repo=Luminara)](https://github.com/CraftAmethyst/Luminara)
 
-[![Graphene](https://github-readme-stats-six-gamma-67.vercel.app/api/pin/?username=CraftAmethyst&repo=Graphene)](https://github.com/CraftAmethyst/Graphene)
+[![Graphene](https://github-readme-stats-six-gamma-67.vercel.app/api/pin?username=CraftAmethyst&repo=Tritium)](https://github.com/CraftAmethyst/Tritium)
 
 ## 📈 GitHub Analytics
 
