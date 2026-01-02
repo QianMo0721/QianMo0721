@@ -46,7 +46,7 @@ My main projects are under my organization: [CraftAmethyst](https://github.com/C
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-e4reyl4cy-qianmo-promaxs-projects.vercel.app?user=QianMo0721&theme=github-dark-blue)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=QianMo0721&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
