@@ -45,15 +45,15 @@ My main projects are under my organization: [CraftAmethyst](https://github.com/C
 ## 🎨 Featured Projects
 
 ### 🔥 Popular Projects
-[![Luminara](https://github-readme-stats-six-gamma-67.vercel.app/api/pin?username=CraftAmethyst&repo=Luminara)](https://github.com/CraftAmethyst/Luminara)
+[![Luminara](https://github-readme-stats-six-gamma-67.vercel.app/api/pin/?username=CraftAmethyst&repo=Luminara)](https://github.com/CraftAmethyst/Luminara)
 
-[![Graphene](https://github-readme-stats-six-gamma-67.vercel.app/api/pin?username=CraftAmethyst&repo=Tritium)](https://github.com/CraftAmethyst/Tritium)
+[![Graphene](https://github-readme-stats-six-gamma-67.vercel.app/api/pin/?username=CraftAmethyst&repo=Tritium)](https://github.com/CraftAmethyst/Tritium)
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-e4reyl4cy-qianmo-promaxs-projects.vercel.app?user=QianMo0721&theme=github-dark-blue)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-e4reyl4cy-qianmo-promaxs-projects.vercel.app?user=QianMo0721&theme=github-dark-blue)
 
 </div>
 
