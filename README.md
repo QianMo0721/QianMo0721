@@ -4,6 +4,8 @@
 
 Distinct Name: 浅陌/QianMo/QianMo0721/QianMo_ProMax/QianMoMAX
 
+![](IMG_0348.jpeg)
+
 My main projects are under my organization: [CraftAmethyst](https://github.com/CraftAmethyst)
 
 ![GitHub Stats](https://github-readme-stats-six-gamma-67.vercel.app/api?username=QianMo0721&show_icons=true&theme=ambient_gradient)
