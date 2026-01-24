@@ -4,7 +4,8 @@
 
 Distinct Name: 浅陌/QianMo/QianMo0721/QianMo_ProMax/QianMoMAX
 
-搞笑语录；
+搞笑语录：
+
 ![](IMG_0348.jpeg)
 
 My main projects are under my organization: [CraftAmethyst](https://github.com/CraftAmethyst)
