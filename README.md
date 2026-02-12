@@ -4,9 +4,7 @@
 
 Distinct Name: 浅陌/QianMo/QianMo0721/QianMo_ProMax/QianMoMAX
 
-搞笑语录：
-
-![](IMG_0348.jpeg)
+氚的提示词注入崩溃的功能确实是做的不对，请大家不要打扰我和其他开发者了，我已经发了新版本了，我也和大家道个歉🙏
 
 My main projects are under my organization: [CraftAmethyst](https://github.com/CraftAmethyst)
 
